@@ -1,4 +1,5 @@
 # Problem https://atcoder.jp/contests/abc064/tasks/abc064_a
+# Ruby 1st Try
 yes = "YES"
 no = "NO"
 
