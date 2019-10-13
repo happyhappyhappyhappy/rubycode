@@ -18,4 +18,10 @@
 * 結果[2回目AC](https://atcoder.jp/contests/abc088/submissions/7945212)
 
 * 実行時間は7ms,メモリは1788kb。最低値か。
+---
+## 2回目
+# 2019/10/13
+* [結果](https://atcoder.jp/contests/abc088/submissions/7961025)
+* メモリは前と同じ。実行時間は`in2.txt`のみ8ms。
+
 
