@@ -25,3 +25,14 @@
 * メモリは前と同じ。実行時間は`in2.txt`のみ8ms。
 
 
+---
+## 3回目
+# 2019/10/13
+* `answer`変数に値を入れ、`puts(answer)`で出力
+
+* 結果[1回目WA](https://atcoder.jp/contests/abc088/submissions/7961997)
+* 結果[2回目AC](https://atcoder.jp/contests/abc088/submissions/7962015)
+
+* 両者の違いは、`A <= oneYenUse`と`=`を付けてしまったのが1回目。
+    * この場合`No`とすると`A = oneYesUse`の場合にこける
+    * なくせば解決
