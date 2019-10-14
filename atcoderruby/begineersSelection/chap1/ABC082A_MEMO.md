@@ -22,3 +22,16 @@
 * [完了](https://atcoder.jp/contests/abc082/submissions/7968629)
 
 * メモリも実行時間は最初以外は7ms,1788kb
+
+---
+## 3回目
+
+* ceilメソッドを使ってみる
+
+* [一発でIntegerまでいくので](https://docs.ruby-lang.org/ja/2.3.0/method/Float/i/ceil.html) 一緒にして処理してしまった。
+
+* [完了](https://atcoder.jp/contests/abc082/submissions/7971472)
+
+* 実行時間とメモリはさして替わらず。
+
+
