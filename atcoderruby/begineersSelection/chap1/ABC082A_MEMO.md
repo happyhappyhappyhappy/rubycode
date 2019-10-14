@@ -12,4 +12,13 @@
 * [完了](https://atcoder.jp/contests/abc082/submissions/7961886)
 
 * メモリと実行時間は最低値か。
+---
+## 2回目
 
+# 2019/10/14
+
+* [こちら](http://t.ly/w6DEP)の繰り上げ方法で実装してみる。
+
+* [完了](https://atcoder.jp/contests/abc082/submissions/7968629)
+
+* メモリも実行時間は最初以外は7ms,1788kb
