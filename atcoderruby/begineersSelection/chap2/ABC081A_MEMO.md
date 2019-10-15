@@ -25,3 +25,9 @@
 * [完了](https://atcoder.jp/contests/abc081/submissions/7971709)
 
 * 実行時間とメモリは7ms,1777msと一致する
+---
+## 3回目
+# 2019/10/15
+* 自己代入を`answer += 1`としてみた
+* [結果](https://atcoder.jp/contests/abc081/submissions/7981140)
+*  実行時間とメモリは2回目と同じ
