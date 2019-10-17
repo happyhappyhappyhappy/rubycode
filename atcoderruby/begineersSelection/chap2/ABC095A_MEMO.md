@@ -24,3 +24,7 @@
 
 * 実行時間は7ms,だけどa12のみ3836KBになる
 
+---
+* ms code のpush が上手くいかないのでgitコマンドで行く
+    * [参考](http://www-creators.com/archives/1472)
+---
