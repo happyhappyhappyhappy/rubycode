@@ -12,3 +12,10 @@
 * [完了](https://atcoder.jp/contests/abc085/submissions/7995847)
 
 * 実行時間7ms,メモリ1788KB最低値
+
+## 2回目
+
+* 文字列置き換えでやってみる(C++みたいに)
+* [完了](https://atcoder.jp/contests/abc085/submissions/7998302)
+* シンプル
+* 実行時間とメモリは前と同じ
