@@ -1,4 +1,5 @@
 # Problem  https://atcoder.jp/contests/abc069/tasks/abc069_b
+# Ruby 1st Try
 str = gets.chomp('\n')
 strSize = str.size
 firstChar = str[0]
