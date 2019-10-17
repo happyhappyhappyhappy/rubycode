@@ -22,9 +22,17 @@
 
 * [完了](https://atcoder.jp/contests/abc095/submissions/7995643)
 
-* 実行時間は7ms,だけどa12のみ3836KBになる
+* 実行時間は7ms,だけどメモリはa12のみ3836KBになる
 
 ---
 * ms code のpush が上手くいかないのでgitコマンドで行く
     * [参考](http://www-creators.com/archives/1472)
 ---
+## 3回目
+
+* 1回目に戻るが変数はもうちょっと優しく
+* [完了](https://atcoder.jp/contests/abc095/submissions/7998139)
+* やはりメモリは1777KBで安定する。文字列と整数型の違いか。
+
+
+
