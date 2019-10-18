@@ -17,3 +17,10 @@
 * [完了](https://atcoder.jp/contests/abc069/submissions/7998703)
 
 * 時間とメモリは他と同じ
+---
+## 2回目
+
+# 2019/10/18
+
+* ABC085Aで検証した内容でそのまま使う
+* [完了](https://atcoder.jp/contests/abc069/submissions/8008251)
