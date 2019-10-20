@@ -19,3 +19,12 @@
 * [結果](https://atcoder.jp/contests/abc082/submissions/8056509)
     * つなぎ合わせて簡単にできた次第
     * 7ms,1777kBは同じ
+
+## 2回目
+# 2019/10/20
+* 三項演算子を使って見たくなった
+    * [参考](https://qiita.com/Kohei_Kishimoto0214/items/45fb06dbf480a93ec2c1) 
+    * [参考](https://qiita.com/lasershow/items/160c854e4256ba596ec5)
+
+* [完了](https://atcoder.jp/contests/abc082/submissions/8060949)
+* メモリは倍の3836kbになる(1テスト`1_08.txt`のみ)。何か長かったか。
