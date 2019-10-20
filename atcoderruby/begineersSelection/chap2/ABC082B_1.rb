@@ -2,6 +2,12 @@
 # Ruby 1st Try
 sStr = gets.chomp
 tStr = gets.chomp
-puts(sStr)
-sStr.sort!
-puts(sStr)
+ssStr = sStr.chars.sort.join
+tsStr = tStr.chars.sort.reverse.join
+if ssStr < tsStr
+    puts("Yes")
+else
+    puts("No")
+end
+# p ssStr
+# p tsStr

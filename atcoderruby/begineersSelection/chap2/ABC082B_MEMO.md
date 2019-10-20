@@ -11,3 +11,11 @@
     * charsを用いる事で文字「配列」にする感じ
     * さらに[参考](https://docs.ruby-lang.org/ja/2.3.0/method/String/i/chars.html)
 
+# 2019/10/19
+* `chars`と`join`のテスト
+* `puts`だと一文字毎に改行をしてくる。`p`で内部が出てくる
+* [`sort`](https://docs.ruby-lang.org/ja/2.3.0/method/Array/i/sort.html)のテスト
+* `join`もテストしてみたら上手くいったので完了
+* [結果](https://atcoder.jp/contests/abc082/submissions/8056509)
+    * つなぎ合わせて簡単にできた次第
+    * 7ms,1777kBは同じ
