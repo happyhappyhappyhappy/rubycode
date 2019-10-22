@@ -13,3 +13,5 @@
     * 8ms,3836kbが最大値。数が多い場合とか値が大きいのが原因と思う。
     * 思ったより直感的に解けず
     * `||`の使い方を上手くマスターしたい
+* [配列の繰り返し](https://qiita.com/otuhs_d/items/f27a6458991b722fe3bb)
+* [ブロックパラメータ](https://qiita.com/tsubasakat/items/b427f62cfa9bc382e0ac)

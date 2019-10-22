@@ -28,3 +28,11 @@
 
 * [完了](https://atcoder.jp/contests/abc082/submissions/8060949)
 * メモリは倍の3836kbになる(1テスト`1_08.txt`のみ)。何か長かったか。
+
+# 3回目
+## 2019/10/22
+* 思いっきり短縮化してみた
+* [完了](https://atcoder.jp/contests/abc082/submissions/8084984)
+    * メモリは1777kbのみ実行時間は変わらず
+* [コメント](https://docs.ruby-lang.org/ja/search/type:instance-method/class:String/version:2.6.0/query:String%23each_char/)
+    →使い逃したが`each_char.to_a`の方がobsoleteで無くて良かったかも
