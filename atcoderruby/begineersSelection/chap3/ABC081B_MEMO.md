@@ -15,3 +15,8 @@
     * `||`の使い方を上手くマスターしたい
 * [配列の繰り返し](https://qiita.com/otuhs_d/items/f27a6458991b722fe3bb)
 * [ブロックパラメータ](https://qiita.com/tsubasakat/items/b427f62cfa9bc382e0ac)
+
+# 2回目
+## 20191022
+* ブロックパラメータを[ここ](https://www.buildinsider.net/language/rubytips/0011)で改めて情報を得たので試してみた。今日はここまで。
+* 割れないのではと考えているので別の日にこれは`to_i`を使って見る
