@@ -17,6 +17,14 @@
 * [ブロックパラメータ](https://qiita.com/tsubasakat/items/b427f62cfa9bc382e0ac)
 
 # 2回目
-## 20191022
+## 2019/10/22
 * ブロックパラメータを[ここ](https://www.buildinsider.net/language/rubytips/0011)で改めて情報を得たので試してみた。今日はここまで。
 * 割れないのではと考えているので別の日にこれは`to_i`を使って見る
+## 2019/10/24
+* `A.each do ... end`文で切り出してみて、割って代入としてみたが、中身は変わらず。
+    * `times`を使って見るか
+* [完了](https://atcoder.jp/contests/abc081/submissions/8106814)
+    * 8msはあるが、メモリはすべて1788kb
+* 次回は[ここ](https://qiita.com/drken/items/fdae15f6e9ede543b97a)で上げられている線形探索でやってみる。
+
+
