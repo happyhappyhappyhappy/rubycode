@@ -26,5 +26,11 @@
 * [完了](https://atcoder.jp/contests/abc081/submissions/8106814)
     * 8msはあるが、メモリはすべて1788kb
 * 次回は[ここ](https://qiita.com/drken/items/fdae15f6e9ede543b97a)で上げられている線形探索でやってみる。
+---
+# 3回目
+## 2019/10/25
+* 線形探索を用いてみる
+* 寒いので早めに終了
+
 
 
