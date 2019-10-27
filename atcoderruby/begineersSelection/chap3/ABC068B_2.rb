@@ -14,8 +14,18 @@ Ni = Array.new(Nmax+1,0)
             break
         end
         number = number / 2
-        counter = counter +1
+        counter = counter+1
     end
     Ni[j]=counter
 end
 # p Ni
+N = gets.chomp.to_i
+answer = 0
+countents = 0
+1.upto(N) do |j|
+    if(countents <= Ni[j])
+        answer = j
+        countents = Ni[j]
+    end
+end
+puts(answer)
