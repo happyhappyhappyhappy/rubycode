@@ -13,6 +13,7 @@ avemin = abss[0]
 for j in 1..(n-1) do
     if abss[j] < avemin
         answer = j
+        avemin = abss[j]
     end
 end
 answer = answer+1
