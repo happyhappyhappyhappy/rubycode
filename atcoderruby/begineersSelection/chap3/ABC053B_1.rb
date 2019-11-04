@@ -4,20 +4,20 @@ si = gets.chomp.split('')
 lengthm = si.size-1
 apos = 0
 zpos = si.size-1
-for j in 0..lengthm do
-    if si[j]=='A'
+0.step(lengthm,+1){|j|
+    if si[j] == 'A'
         apos = j
         break
     end
-end
-for j in lengthm..0 do
-    if si[j]=='Z'
+}
+lengthm.step(0,-1){|j|
+    if si[j] == 'Z'
         zpos = j
-    else
-        puts(s[j] ," is not Z")
+        break
     end
-end
-p zpos
-p apos
-answer = zpos-apos
-p answer
+
+}
+# p zpos
+# p apos
+answer = (zpos-apos)+1
+puts(answer)
