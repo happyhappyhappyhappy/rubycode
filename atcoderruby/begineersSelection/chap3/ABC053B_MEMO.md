@@ -19,4 +19,12 @@
 # 2回目
 ## 2019/11/07
 * 1回目と同じアプローチを使って見る
-
+* upto,downtoが上手く使えてない
+## 2019/11/08
+* [注釈](https://qiita.com/Mocacamo/items/318b193ded19fd37ffd6)を付けて実験
+* 実験する前に、breakの条件が小文字であったからと判明
+* [完了](https://atcoder.jp/contests/abc053/submissions/8331387)
+    * 実行時間とメモリは前と同じくらい
+---
+# 3回目
+##
