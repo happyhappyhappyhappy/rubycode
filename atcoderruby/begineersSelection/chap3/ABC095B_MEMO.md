@@ -8,3 +8,14 @@
     * 空白が入るときは`split(' ')`にしなければダメ
 * [完了](https://atcoder.jp/contests/abc095/submissions/8332227)
     * 一つのケースを除けば7ms,1777kbと実行時間とメモリは最小値
+---
+# 2回目
+## 2019/11/17
+* テストケースも上手くいったのでこれなら大丈夫と思ったら「RE」(実行時エラー)発生
+    * [提出1](https://atcoder.jp/contests/abc095/submissions/8502830)
+    * [提出2](https://atcoder.jp/contests/abc095/submissions/8502822)
+    * [提出3](https://atcoder.jp/contests/abc095/submissions/8502794)
+    * [WANDBOX](https://wandbox.org/#)で調べてみた所`prog.rb:9:in <main>: undefined method 'sum' for [120, 100, 140]:Array (NoMethodError)`とメソッドが無いエラーがあった
+        * 丁寧に足さないとダメか
+        * 低いバージョンと一時的に変えられないかな
+        
