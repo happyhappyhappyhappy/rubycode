@@ -6,5 +6,15 @@ for j in 0...n do
     mi[j] = gets.chomp.to_i
 end
 answer = 0
-answer = n + (x-mi.sum())/(mi.min())
+allsum = 0
+for j in 0...n do
+    allsum = allsum+mi[j]
+end
+allmin = 1001
+for j in 0...n do
+    if mi[j] <= allmin
+        allmin = mi[j]
+    end
+end
+answer = n + (x-allsum)/allmin
 puts(answer)

@@ -18,4 +18,9 @@
     * [WANDBOX](https://wandbox.org/#)で調べてみた所`prog.rb:9:in <main>: undefined method 'sum' for [120, 100, 140]:Array (NoMethodError)`とメソッドが無いエラーがあった
         * 丁寧に足さないとダメか
         * 低いバージョンと一時的に変えられないかな
+## 2019/11/19
+* クラスメソッドを使わずfor文で回して求める
+* [完了](https://atcoder.jp/contests/abc095/submissions/8525672)
+    * 実行時間とメモリは前回と同じ
+* 今回は駆け足で両方ともfor文で回してしまったが、minというクラスメソッドはあったような気がするのでそれを使って見る。 
         
