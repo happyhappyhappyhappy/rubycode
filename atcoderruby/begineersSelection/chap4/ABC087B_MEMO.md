@@ -11,3 +11,6 @@
 # 2回目
 ## 2019/11/20
 * `=<`を表現するときは`...`かしら`..`かしら。要調査
+    * [参考](https://www.javadrive.jp/ruby/for/index4.html)→`..`
+* [完了](https://atcoder.jp/contests/abc087/submissions/8547526)
+    * `test04.txt`と`test07.txt`だけ実行時間25ms。メモリは最小値。

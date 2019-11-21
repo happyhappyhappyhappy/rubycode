@@ -9,10 +9,15 @@ have500y = gets.chomp().to_i
 have100y = gets.chomp().to_i
 have050y = gets.chomp().to_i
 total = gets.chomp().to_i
-for j in 0...have500y do
-    for k in 0...have100y do
-        for m in 0...have050y do
-            
+for j in 0..have500y do
+    for k in 0..have100y do
+        for m in 0..have050y do
+            nowtotal = j*500+k*100+m*50
+            if nowtotal == total
+                answer = answer + 1
+            end
         end
     end
 end
+puts(answer)
+
